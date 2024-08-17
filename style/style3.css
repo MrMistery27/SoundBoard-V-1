@@ -1,0 +1,65 @@
+body {background-color: lightskyblue;}
+
+#Text-2 {
+    color: black;
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+#Text-1 {
+    color: Black;
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+#comming {
+    color: Black;
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+#neuladen {
+    background: darkblue;
+    color: white;
+    border: 0px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+#download {
+    background: darkblue;
+    color: white;
+    border: 0px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+#button1 {
+    margin: 16px;
+    margin-left: 10px;
+    display: inline-block;
+}
+
+#button2 {
+    margin: 16px;
+    margin-left: 10px;
+    display: inline-block;
+}
+
+#button3 {
+    margin: 16px;
+    margin-left: 10px;
+    display: inline-block;
+}
+
+#button4 {
+    margin: 16px;
+    margin-left: 10px;
+    display: inline-block;
+}
+
+#button5 {
+    margin: 16px;
+    margin-left: 10px;
+    display: inline-block;
+}

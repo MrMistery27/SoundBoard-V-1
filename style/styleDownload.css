@@ -1,0 +1,19 @@
+body {background-color: lightskyblue;}
+
+#text1 {
+    color: Black;
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+#text2 {
+    color: Black;
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+#downloadbutton {
+    margin: 16px;
+    margin-left: 10px;
+    display: inline-block;
+}
